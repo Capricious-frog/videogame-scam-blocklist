@@ -1,0 +1,4 @@
+# Name: Game scam blocklist
+# URL: https://github.com/Julortiz/game-scam-blocklist
+# Last update: 15 June, 2021
+
