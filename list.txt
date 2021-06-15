@@ -2,18 +2,179 @@
 # URL: https://github.com/Julortiz/game-scam-blocklist
 # Last update: 15 June, 2021
 
-0.0.0.0 cs.money
-0.0.0.0 csgoempire.com
-0.0.0.0 csgoroll.com
-0.0.0.0 csgo500.com
-0.0.0.0 gamdom.com
-0.0.0.0 duelbits.com
-0.0.0.0 rollbit.com
-0.0.0.0 wtfskins.com
-0.0.0.0 roobet.com
-0.0.0.0 csgopolygon.com
-0.0.0.0 bounty.gg
-0.0.0.0 csgofast123.com
-0.0.0.0 csgoatse.com
-0.0.0.0 csgohowl.com
-0.0.0.0 csgojoker.com
+aqua-skins.com
+awesome-case.com
+beat-skins.com
+best-drop.com
+bitskins.com
+bounty.gg
+buxgenerator.org
+buxgeneratornohuman.co
+caserandom.com
+cloudcsgo.com
+coins-bet.com
+counterluck.com
+cs.deals
+cs.money
+cs.trade
+cs.twojanagroda.pl
+csbetgo.com
+csbets.net
+csbetz.com
+csgo1.com
+csgo500.com
+csgo-dream.com
+csgo-fight.com
+csgo-gg-wp.ru
+csgo-lobby.com
+csgo-lottery.com
+csgo-skins.pl
+csgo.guru
+csgoaimpot.com
+csgoatse.com
+csgobar.com
+csgobazar.com
+csgobet.gg
+csgobet.ru
+csgoblaze.com
+csgoclubs.com
+csgocyz.co
+csgodealer.com
+csgodices.com
+csgodoze.net
+csgodrain.net
+csgoempire.com
+csgoend.net
+csgoezinv.com
+csgofast123.com
+csgofast.com
+csgofly.com
+csgofresh.com
+csgohowl.com
+csgohub.gg
+csgojackpot.com
+csgojoker.com
+csgoking.de
+csgolive.com
+csgoloot.com
+csgolucky.com
+csgomars.com
+csgoparty.com
+csgopolygon.com
+csgopositive.com
+csgopot.win
+csgoprime.com
+csgopulse.com
+csgopush.net
+csgoput.com
+csgoraffling.com
+csgori.ch
+csgorich.com
+csgorivalry.com
+csgoroll.com
+csgorulet.com
+csgosafe.com
+csgosee.com
+csgoselector.ru
+csgoshuffle.com
+csgoskindraft.com
+csgoskinraffle.com
+csgotopcase.com
+csgotradebit.com
+csgotraders.net
+csgotransaction.com
+csgoutpost.com
+csgoweb.com
+csjackpot.pl
+cslots.ru
+cyrexjackpot.com
+d2d-roulette.net
+d2selector.ru
+daddydrop.ru
+daddyskins.com
+datdrop.com
+dmarket.com
+dota2bets.net
+dota2expert.com
+dota2house.com
+dota2wage.com
+dota2wolves.com
+dota-azart.ru
+dotaleaguego.com
+duelbits.com
+epulze.com
+esl-case.org
+ezgameskins.com
+ezrage.com
+ezskinz.org
+farmskins.com
+fireskins.net
+flamecases.com
+free-skins.net
+freerbx.org
+furrydrop.net
+gamdom.com
+gametame.com
+gemztool.com
+getgamegold.com
+gg4t.com
+gg.bet
+good-gabe.com
+gravecase.com
+hellcase.com
+hellstore.net
+hotdota.com
+howl.gg
+hunterlot.com
+item.exchange
+itemgrad.com
+key-drop.com
+knifeskin.com
+lis-skins.ru
+loot.farm
+lootbear.com
+lootmarket.com
+magiccase.net
+martydrop.com
+pvpro.com
+randomskinz.com
+rangerskins.com
+rbxhouse.com
+rbxmachine.online
+robloxgenerator.ga
+rollbit.com
+roobet.com
+rustbet.com
+rustchance.com
+rustignite.com
+rustreaper.com
+ruststake.com
+rustypot.com
+rustysaloon.com
+skin.club
+skinbet.gg
+skingalaxy.gg
+skinhell.com
+skinminers.com
+skins1v1.com
+skins-hunter.com
+skins-lucker.com
+skinsbazaar.com
+skinsoriginal.com
+skinxchange.online
+skinzones.com
+sociusgaming.com
+stake.com
+steam-lottery.com
+stonefire.io
+stuartgames.com
+thunderpick.com
+trade.sociusgaming.com
+tradeit.gg
+tradeskinsfast.com
+unboxskins.com
+vloot.io
+vpgame.com
+wincase.pro
+winrbx.net
+wtfskins.com
