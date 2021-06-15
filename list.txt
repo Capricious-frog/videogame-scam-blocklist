@@ -2,3 +2,18 @@
 # URL: https://github.com/Julortiz/game-scam-blocklist
 # Last update: 15 June, 2021
 
+0.0.0.0 cs.money
+csgoempire.com
+csgoroll.com
+csgo500.com
+gamdom.com
+duelbits.com
+rollbit.com
+wtfskins.com
+roobet.com
+csgopolygon.com
+bounty.gg
+csgofast123.com
+csgoatse.com
+csgohowl.com
+csgojoker.com
