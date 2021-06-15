@@ -1,5 +1,5 @@
-# game-scam-blocklist
+# videogame-scam-blocklist
 
 Blocklist:
 
-`https://raw.githubusercontent.com/Julortiz/game-scam-blocklist/main/list.txt`
+`https://raw.githubusercontent.com/Julortiz/videogame-scam-blocklist/main/list.txt`
