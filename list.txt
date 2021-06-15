@@ -3,17 +3,17 @@
 # Last update: 15 June, 2021
 
 0.0.0.0 cs.money
-csgoempire.com
-csgoroll.com
-csgo500.com
-gamdom.com
-duelbits.com
-rollbit.com
-wtfskins.com
-roobet.com
-csgopolygon.com
-bounty.gg
-csgofast123.com
-csgoatse.com
-csgohowl.com
-csgojoker.com
+0.0.0.0 csgoempire.com
+0.0.0.0 csgoroll.com
+0.0.0.0 csgo500.com
+0.0.0.0 gamdom.com
+0.0.0.0 duelbits.com
+0.0.0.0 rollbit.com
+0.0.0.0 wtfskins.com
+0.0.0.0 roobet.com
+0.0.0.0 csgopolygon.com
+0.0.0.0 bounty.gg
+0.0.0.0 csgofast123.com
+0.0.0.0 csgoatse.com
+0.0.0.0 csgohowl.com
+0.0.0.0 csgojoker.com
