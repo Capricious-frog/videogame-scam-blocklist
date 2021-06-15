@@ -89,6 +89,7 @@ csjackpot.pl
 cslots.ru
 cyrexjackpot.com
 d2d-roulette.net
+d2plus.net
 d2selector.ru
 daddydrop.ru
 daddyskins.com
@@ -101,6 +102,7 @@ dota2wage.com
 dota2wolves.com
 dota-azart.ru
 dotaleaguego.com
+dotteryapp.com
 duelbits.com
 epulze.com
 esl-case.org
@@ -113,7 +115,9 @@ flamecases.com
 free-skins.net
 freerbx.org
 furrydrop.net
+gainkit.com
 gamdom.com
+gamersnab.com
 gametame.com
 gemztool.com
 getgamegold.com
