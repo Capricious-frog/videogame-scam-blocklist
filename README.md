@@ -1,7 +1,7 @@
 # Videogame scam blocklist
 This list blocks websites for gambling and scams for different games. It's meant for parents to stop their children from falling for scams and installing viruses in he computer or giving credit card information to scammers. These are the included games for now, I'm always looking for more scam websites for other games:
 
-* Fornite
+* Fortnite
 * Roblox
 * Counter Strike: Global Offensive
 * Dota 2
