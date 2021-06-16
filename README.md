@@ -18,3 +18,9 @@ To install it replace your hosts file in your os or import it to pihole (Group M
 ## Contributing
 Contributions are greatly appreciated, since new scam websites keep popping up every day. To contribute create a fork and after making changes create a pull request. Please include a description of the changes.
 
+## Donations
+
+| Monero |
+| :-------------: |
+| <img src="https://raw.githubusercontent.com/Julortiz/videogame-scam-blocklist/main/monero.png" width="225"> |
+| 88XTF8tk4rJeUq1vBM8Q2fZLWcvsp9kPbijqsbRy4766BK6t4VR7hKcZ62MEu5LAjGiw3T9cYpKUz2ERwJvzJPCjGLe6A7e |
