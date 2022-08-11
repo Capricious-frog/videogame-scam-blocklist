@@ -6,6 +6,7 @@ This list blocks websites for gambling and scams for different games. It's meant
 * Counter Strike: Global Offensive
 * Dota 2
 * GTA V
+* Warframe
 
 The list should have minimal to no false positives, if you find any let me know so I can fix it, or make a pull request. Check bellow for contributing.
 
